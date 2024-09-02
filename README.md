@@ -35,7 +35,8 @@ The target variable is the species of the iris flower, which includes three clas
 ## Usage
 1. Clone the repository.
 2. Ensure the required libraries are installed.
-3. Open the notebook in Jupyter and run all cells sequentially.
+3. Open the notebook in Jupyter and run all cells sequentially
+4. **Important:** Load three images of iris flowers onto your device for visualization and analysis in the notebook..
 
 ## Conclusion
 This project showcases the use of the Random Forest algorithm for classifying iris species and emphasizes the importance of feature selection and model evaluation in machine learning projects.
